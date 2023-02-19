@@ -1,0 +1,17 @@
+{
+  "name": "angelical-utils",
+  "version": "1.0.2",
+  "description": "A package of utilities to help handling the angelical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "whoisbueno",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "faker": "^6.6.6",
+    "node-fetch": "^3.2.6"
+  }
+}
